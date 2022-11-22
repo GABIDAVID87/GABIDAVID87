@@ -1,0 +1,214 @@
+#EXTM3U
+
+#EXTINF:-1 ,EL TRECE
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 ,TELEFE
+http://delivery.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
+
+#EXTINF:-1 ,CANAL 9
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve.m3u8
+
+#EXTINF:-1 ,TN NOTICIAS
+http://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
+
+#EXTINF:-1 ,TV PUBLICA
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica.m3u8
+
+#EXTINF:-1 ,AMERICA
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
+
+#EXTINF:-1 ,C5N
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/c5n/live
+
+#EXTINF:-1 ,A24
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/A24/SA_HLS/A24.m3u8
+
+#EXTINF:-1 ,CRONICA TV
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cronica/SA_HLS/Cronica.m3u8
+
+#EXTINF:-1 ,Canal 26
+https://live-edge01.telecentro.net.ar/live/26hd-720/chunklist.m3u8
+
+#EXTINF:-1 ,IP
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
+
+#EXTINF:-1 ,TLX HD
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 ,DISCOVERY
+http://delivery.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
+
+#EXTINF:-1 ,DISCOVERY H&H
+http://170.247.204.18:8000/play/a0al/index.m3u8
+
+#EXTINF:-1 ,DISCOVERY TURBO
+http://delivery.cdn.rcs.net.ar/mnp/dsc_turbo_hls/playlist.m3u8
+
+#EXTINF:-1 ,ID DISCOVERY
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
+
+#EXTINF:-1 ,TLC DISCOVERY
+http://delivery.cdn.rcs.net.ar/mnp/dsc_tlc_hls/playlist.m3u8
+
+#EXTINF:-1,DISCOVERY Theater HD
+http://170.247.204.18:8000/play/a0am/index.m3u8
+
+#EXTINF:-1,DISCOVERY World HD
+http://170.247.204.18:8000/play/a05b/index.m3u8
+
+#EXTINF:-1 ,ANIMAL PLANET
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
+
+#EXTINF:-1,NAT GEO HD
+http://170.247.204.18:8000/play/a05a/index.m3u8
+
+#EXTINF:-1 ,Hhd
+http://delivery.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
+
+#EXTINF:-1 ,H2
+http://delivery.cdn.rcs.net.ar/mnp/h2_hls/playlist.m3u8
+
+#EXTINF:-1 ,AXN
+http://delivery.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
+
+#EXTINF:-1 ,BOOMERANG
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Boomerang/SA_HLS/Boomerang.m3u8
+
+#EXTINF:-1 ,CARTOON NETWORK
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
+
+#EXTINF:-1 ,CENTRAL COMEDY
+http://delivery.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
+
+#EXTINF:-1 ,CINECANAL
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal.m3u8
+
+#EXTINF:-1 ,CINEMAX
+http://delivery.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
+
+#EXTINF:-1 ,CNN
+http://delivery.cdn.rcs.net.ar/mnp/cnn_hls/playlist.m3u8
+
+#EXTINF:-1 ,DISCOVERY KIDS
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8
+
+#EXTINF:-1 ,DISNEY CHANNEL
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel.m3u8
+
+#EXTINF:-1 ,DISNEY JUNIOR
+http://delivery.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
+
+#EXTINF:-1 ,DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
+
+#EXTINF:-1 ,EL GOURMET
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet.m3u8
+
+#EXTINF:-1 ,ESPN EXTRA
+http://delivery.cdn.rcs.net.ar/mnp/espn_extra_hls/track_2_2500/playlist.m3u8
+
+#EXTINF:-1 ,ESPN
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
+
+#EXTINF:-1 ,ESPN 2
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
+
+#EXTINF:-1 ,ESPN 3
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_2499584=5.m3u8
+
+#EXTINF:-1 ,FOX SPORT 
+https://stationtv.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
+
+#EXTINF:-1 ,FOX SPORT 2
+http://delivery.cdn.rcs.net.ar/mnp/fox_sport_2hls/playlist.m3u8
+
+#EXTINF:-1 ,FOX SPORT 3
+http://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
+
+#EXTINF:-1 ,AMC
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/AMC/SA_HLS/AMC.m3u8
+
+#EXTINF:-1 ,FX HD
+http://delivery.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
+
+#EXTINF:-1 ,FXM
+http://delivery.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
+
+#EXTINF:-1 ,HBO 2
+http://delivery.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
+
+#EXTINF:-1 ,HBO POP
+http://delivery.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
+
+#EXTINF:-1 ,HBO
+http://delivery.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+
+#EXTINF:-1 ,LOVE NATURE
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 ,NICK JR
+http://delivery.cdn.rcs.net.ar/mnp/nickjr_hls/playlist.m3u8
+
+#EXTINF:-1 ,NICK
+http://delivery.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
+
+#EXTINF:-1 ,PARAMOUNT NETWORK
+http://delivery.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
+
+
+
+#EXTINF:-1 ,SONY CHANNEL
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Sony/SA_HLS/Sony.m3u8
+
+#EXTINF:-1 ,SPACE
+http://delivery.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
+
+
+#EXTINF:-1 ,STAR CHANNEL
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
+
+#EXTINF:-1 ,STUDIO UNVERSAL
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
+
+#EXTINF:-1 ,SYFY
+http://delivery.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
+
+#EXTINF:-1 ,TBS
+http://delivery.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
+
+#EXTINF:-1 ,TCM
+http://delivery.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
+
+#EXTINF:-1 ,TELEFUTURO
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=5aa5d67e1018a4d5eeb7b6828f83cc1dca0d25852b16bca22a7f84dba1a02902&exp=1658435120
+
+#EXTINF:-1 ,TIGO SPORT
+https://ed11.zorrohd2.nl/live/ST6f18af4dfb8b268.m3u8
+
+#EXTINF:-1 ,TNT SERIES
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries.m3u8
+
+#EXTINF:-1 ,TNT SPORT
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+
+#EXTINF:-1 ,TNT
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
+
+#EXTINF:-1 ,TOONCAST
+http://delivery.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
+
+#EXTINF:-1 ,TRU TV HD
+http://delivery.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
+
+#EXTINF:-1 ,TYC SPORT
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+
+#EXTINF:-1 ,UNIVERSAL TV
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal.m3u8
+
+#EXTINF:-1 ,VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+#EXTINF:-1 ,WARNER CHANNEL
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
