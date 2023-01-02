@@ -2,3 +2,21 @@
 
 #EXTINF:-1 ,TNT SPORTS
 http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/205248
+
+#EXTINF:-1 , EL TRECE
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 , EL TRECE 2
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 , EL 9
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
+
+#EXTINF:-1 , TELEFE
+
+#EXTINF:-1 , AMERICA
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+
+
+#EXTINF:-1 13 MAX
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
