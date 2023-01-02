@@ -18,5 +18,5 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
 
-#EXTINF:-1 13 MAX
+#EXTINF:-1 , 13 MAX
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
