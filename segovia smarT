@@ -12,6 +12,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
 
 #EXTINF:-1 , TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 #EXTINF:-1 , AMERICA
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
