@@ -1,20 +1,56 @@
 #EXTM3U
-#EXTINF:-1 ,TNT SPORTS
-http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/205248
+#EXTINF:-1 ,EL TRECE
 
-#EXTINF:-1 , EL TRECE
-https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/265
 
-#EXTINF:-1 , EL TRECE 2
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 ,TELEFE
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/264
 
-#EXTINF:-1 , EL 9
-https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
+#EXTINF:-1 ,CANAL 9
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/473
 
-#EXTINF:-1 , TELEFE
-http://latinanplad.com:8080/pandalis/WjSpqdqyg3bB/264
-#EXTINF:-1 , AMERICA
-https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#EXTINF:-1 ,TV PUBLICA
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/268
 
-#EXTINF:-1 , 13 MAX
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:-1 ,AMERICA
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/266
+
+#EXTINF:-1 ,C5N
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/473
+
+#EXTINF:-1 ,A24
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/178
+
+#EXTINF:-1 ,CRONICA TV
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/584
+
+#EXTINF:-1 ,Canal 26
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/476
+
+#EXTINF:-1 ,DISCOVERY
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/403
+
+#EXTINF:-1 ,DISCOVERY H&H
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/153
+
+#EXTINF:-1 ,DISCOVERY TURBO
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/157
+
+#EXTINF:-1 ,ID DISCOVERY
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/162
+
+#EXTINF:-1,DISCOVERY Theater HD
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/16
+
+#EXTINF:-1,DISCOVERY World HD
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/18
+
+#EXTINF:-1 ,ANIMAL PLANET
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/407
+
+#EXTINF:-1,NAT GEO HD
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/166
+
+#EXTINF:-1 ,NAT GEO WILD HD
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/789
+
