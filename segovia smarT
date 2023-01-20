@@ -1,6 +1,11 @@
 #EXTM3U
-#EXTINF:-1 ,EL TRECE
+#EXTINF:-1 ,boca2
+http://latinanplad.com:8080/Alfredo2022/Alfredo2022/146502
 
+#EXTINF:-1 ,boca
+http://latinanplad.com:8080/Alfredo2022/Alfredo2022/146501
+
+#EXTINF:-1 ,EL TRECE
 http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/265
 
 #EXTINF:-1 ,TELEFE
