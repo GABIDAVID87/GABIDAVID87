@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1,A&E HD
+#EXTINF:-1, bova vs belez
+https://latamlive.warnermediacdn.com/hls/live/2042062/arg_tnt_sports/VIDEO_0_8128000.m3u8
+#EXTINF:-1, A&E HD
 http://170.239.188.253:50000/play/a02n/index.m3u8
 #EXTINF:-1,AMC HD
 http://170.239.188.253:50000/play/a010/index.m3u8
