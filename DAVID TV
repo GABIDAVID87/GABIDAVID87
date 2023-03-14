@@ -1,22 +1,16 @@
 #EXTM3U
-#EXTINF:-1, tefe 1
+#EXTINF:-1, telefe 1
 http://magmas5.com:8000/HKRHI1H9S2/QRU88T9RKB/3559
-
-#EXTINF:-1, tefe 2
+#EXTINF:-1, telefe 2
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
-
-#EXTINF:-1, tefe 3
+#EXTINF:-1, telefe 3
 https://siloh.pluto.tv/lilo/production/TelefePluto/master.m3u8
-
 #EXTINF:-1, 13Max
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-
 #EXTINF:-1, el neuve
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
-
 #EXTINF:-1, el trce
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-
 #EXTINF:-1,[IPTV]-13C
 http://143.255.176.169:11935/play/a049/index.m3u8
 #EXTINF:-1,[IPTV]-24HRS
@@ -121,6 +115,4 @@ http://143.255.176.169:11935/play/a02t/index.m3u8
 http://143.255.176.169:11935/play/a02u/index.m3u8
 #EXTINF:-1,[IPTV]-WARNER CHANNEL
 http://143.255.176.169:11935/play/a02v/index.m3u8
-470
-Mira contenido interesante
-Inicia sesión en tu cuenta y sigue a creadores y comunidades populares
+ 
