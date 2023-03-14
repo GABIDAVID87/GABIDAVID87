@@ -1,20 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tefe 1
+#EXTINF:-1, tefe 1
 http://magmas5.com:8000/HKRHI1H9S2/QRU88T9RKB/3559
 
-#EXTINF:-1 tefe 2
+#EXTINF:-1, tefe 2
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
-#EXTINF:-1 tefe 3
+#EXTINF:-1, tefe 3
 https://siloh.pluto.tv/lilo/production/TelefePluto/master.m3u8
 
-#EXTINF:-1 13Max
+#EXTINF:-1, 13Max
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
-#EXTINF:-1 el neuve
+#EXTINF:-1, el neuve
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 
-#EXTINF:-1 el trce
+#EXTINF:-1, el trce
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1,[IPTV]-13C
