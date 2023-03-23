@@ -13,14 +13,14 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 http://motivatv.club:8080/amaya00/amaya00/408608
 #EXTINF:-1, DISCOVERY TURBO
 http://monterocity.com:25461/Phenixiptv/acAWT263n7LR/2017
-#EXTINF:-1,[IPTV]-24HRS
-http://143.255.176.169:11935/play/a001/index.m3u8
-#EXTINF:-1,[IPTV]-A&E
-http://143.255.176.169:11935/play/a002/index.m3u8
-#EXTINF:-1,[IPTV]-AMC
-http://143.255.176.169:11935/play/a003/index.m3u8
-#EXTINF:-1,[IPTV]-ANIMAL PLANET
-http://143.255.176.169:11935/play/a004/index.m3u8
+#EXTINF:-1,TYC SPORT 1
+http://motivatv.club:8080/amaya00/amaya00/279038
+#EXTINF:-1,TYC SPORT 2
+http://motivatv.club:8080/amaya00/amaya00/409115
+#EXTINF:-1,TYC SPORT 3
+http://motivatv.club:8080/amaya00/amaya00/491645
+#EXTINF:-1,TYC SPORT 4
+http://motivatv.club:8080/amaya00/amaya00/491675
 #EXTINF:-1,[IPTV]-AXN
 http://143.255.176.169:11935/play/a005/index.m3u8
 #EXTINF:-1,[IPTV]-BABY FIRST
