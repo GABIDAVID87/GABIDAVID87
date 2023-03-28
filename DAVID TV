@@ -4,7 +4,7 @@ http://motivatv.club:8080/amaya00/amaya00/416195
 #EXTINF:-1, telefe 2
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTINF:-1, telefe 3
-https://siloh.pluto.tv/lilo/production/TelefePluto/master.m3u8
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1, 13Max
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1, el neuve
