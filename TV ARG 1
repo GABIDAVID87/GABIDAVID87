@@ -69,3 +69,31 @@ http://magmas5.com:8000/2SBN93PHH7/3CYNV7F37W/3566
 http://magmas5.com:8000/2SBN93PHH7/3CYNV7F37W/3567
 #EXTINF:-1 tvg-id="eltrece.ar" tvg-name="" group-title="ARGENTINA: NACIONALES" tvg-logo="https://www.nicepng.com/png/full/828-8283014_eltrece-logo-eltrece-logo-el-trece.png",ARG: EL TRECE HD
 http://magmas5.com:8000/2SBN93PHH7/3CYNV7F37W/3568
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="" group-title="ARGENTINA: LIGA 2023 ⚽" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102018/untitled-1_0.png",ARG: TYC SPORTS INTERNACIONAL
+http://magmas5.com:8000/2SBN93PHH7/3CYNV7F37W/148457
+#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-name="" group-title="ARGENTINA: LIGA 2023 ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png",ARG: TNT SPORTS FHD
+http://magmas5.com:8000/2SBN93PHH7/3CYNV7F37W/148458
+#EXTINF:-1 tvg-id="tntsportsargentina.ar" tvg-name="" group-title="ARGENTINA: LIGA 2023 ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png",ARG: TNT SPORTS HD
+http://magmas5.com:8000/2SBN93PHH7/3CYNV7F37W/148459
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARGENTINA: LIGA 2023 ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",ARG: ESPN PREMIUM FHD
+http://magmas5.com:8000/2SBN93PHH7/3CYNV7F37W/148460
+#EXTINF:-1 tvg-id="foxsportsargentina.ar" tvg-name="" group-title="ARGENTINA: LIGA 2023 ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png",ARG: ESPN PREMIUM HD
+http://magmas5.com:8000/2SBN93PHH7/3CYNV7F37W/148461
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARGENTINA: LIGA 2023 ⚽" tvg-logo="",ARG: ESPN HD
+http://magmas5.com:8000/2SBN93PHH7/3CYNV7F37W/151113
+#EXTINF:-1 tvg-id="espn2hdargentina.ar" tvg-name="" group-title="ARGENTINA: LIGA 2023 ⚽" tvg-logo="",ARG: ESPN 2
+http://magmas5.com:8000/2SBN93PHH7/3CYNV7F37W/151114
+#EXTINF:-1 tvg-id="espn3hdargentina.ar" tvg-name="" group-title="ARGENTINA: LIGA 2023 ⚽" tvg-logo="",ARG: ESPN 3
+http://magmas5.com:8000/2SBN93PHH7/3CYNV7F37W/151115
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARGENTINA: LIGA 2023 ⚽" tvg-logo="",ARG: ESPN 4
+http://magmas5.com:8000/2SBN93PHH7/3CYNV7F37W/151116
+#EXTINF:-1 tvg-id="foxsportsargentina.ar" tvg-name="" group-title="DEPORTES: UHD⭐️⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png",31 | FOX SPORTS PREMIUM*
+http://magmas5.com:8000/2SBN93PHH7/3CYNV7F37W/145439
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="" group-title="DEPORTES: UHD⭐️⚽" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102018/untitled-1_0.png",32 | TYC SPORTS HD
+http://magmas5.com:8000/2SBN93PHH7/3CYNV7F37W/145440
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="" group-title="DEPORTES: UHD⭐️⚽" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102018/untitled-1_0.png",33 | TYC SPORTS INTERNACIONAL
+http://magmas5.com:8000/2SBN93PHH7/3CYNV7F37W/145441
+#EXTINF:-1 tvg-id="tntsportsargentina.ar" tvg-name="" group-title="DEPORTES: UHD⭐️⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png",34 | TNT SPORTS ARGENTINA HD
+http://magmas5.com:8000/2SBN93PHH7/3CYNV7F37W/145442
+#EXTINF:-1 TNT SPORT HDF
+http://magmas5.com:8000/2SBN93PHH7/3CYNV7F37W/131980
