@@ -1,19 +1,5 @@
-Q#EXTM3U
-#EXTINF:-1 ,ESPN PREMIUM 00
-http://my-chplus.net:8080/Lupe001/yQxKLr3DAz4w/50839
-#EXTINF:-1 ,ESPN PREMIUM 01
-http://my-chplus.net:8080/Lupe001/yQxKLr3DAz4w/1202156
-#EXTINF:-1 ,TNT SPORTS
-http://my-chplus.net:8080/Lupe001/yQxKLr3DAz4w/1202220
-#EXTINF:-1 ,FOX SPORTS 1
-http://my-chplus.net:8080/Lupe001/yQxKLr3DAz4w/1202155
-#EXTINF:-1 ,FOX SPORTS 01
-http://my-chplus.net:8080/Lupe001/yQxKLr3DAz4w/22098
-#EXTINF:-1 ,FOX SPORTS 001
-http://my-chplus.net:8080/Lupe001/yQxKLr3DAz4w/1115228
-#EXTINF:-1 ,ESPN 1
-http://my-chplus.net:8080/Lupe001/yQxKLr3DAz4w/26794
-#EXTINF:-1 ,ESPN 01
-http://my-chplus.net:8080/Lupe001/yQxKLr3DAz4w/22101
-#EXTINF:-1 ,ESPN 001
-http://motivatv.club:8080/amaya00/amaya00/279149
+#EXTM3U
+#EXTINF:-1 ,TYC
+http://179.51.169.254:7000/play/a03a
+
+
