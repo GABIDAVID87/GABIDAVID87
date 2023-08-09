@@ -1,73 +1,339 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tplu6cXP312IN5rrT5K81zFZpMd.jpg",PEAKY BLINDERS S01 E01
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1111520.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3vGYt82f6YqD1eAHVuAhkQQBAJ.jpg",PEAKY BLINDERS S01 E02
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1111521.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQluUwtpgk7KJsTfS2CdoJBKcyb.jpg",PEAKY BLINDERS S01 E03
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1111522.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktATJ6sEfEqu6HfGpE9FD7WIjvq.jpg",PEAKY BLINDERS S01 E04
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1111523.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11HGUikej3bARNmp44vEnkBel5K.jpg",PEAKY BLINDERS S01 E05
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1111524.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4p4MIZG60gGHChGtTDQMO8Afb9R.jpg",PEAKY BLINDERS S01 E06
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1111525.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i03Gc5a3kT2W6XlE836vHBxzjMv.jpg",PEAKY BLINDERS S02 E01
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1118759.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQUuWCeTkuhZrXEKcEtMWisoCwO.jpg",PEAKY BLINDERS S02 E02
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1118760.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGR1zCMvbBKb8A8LMnqQCeaXTUw.jpg",PEAKY BLINDERS S02 E03
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1118761.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/koaGMtpxFhBt2SdSzZlgT9kDAu4.jpg",PEAKY BLINDERS S02 E04
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1118762.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trUVc4nroLCWayW1Bl61uieY1ET.jpg",PEAKY BLINDERS S02 E05
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1118763.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxEHqVvWCXLbNDfO1Z6S4r9pxHY.jpg",PEAKY BLINDERS S02 E06
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1118764.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RRRhM5ehUVb69KVMn9HQbN99iZ.jpg",PEAKY BLINDERS S03 E01
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1118765.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFGD6AaP4GXEROEQBAfFsKfSq9Q.jpg",PEAKY BLINDERS S03 E02
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1118766.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uo1SiLstmK9KFSHUh3tT9yVUofq.jpg",PEAKY BLINDERS S03 E03
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1118767.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcOWVbd1V46RRhbgNIGyTwwijne.jpg",PEAKY BLINDERS S03 E04
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1118768.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4A168wOqSidu25pOmC7a0vLITkP.jpg",PEAKY BLINDERS S03 E05
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1118769.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prDRv2l7hjooZWNFMui9Ll7Plf5.jpg",PEAKY BLINDERS S03 E06
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1118770.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbxpucGwT4OIykqe0O9E9LnA9wV.jpg",PEAKY BLINDERS S04 E01
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1118771.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXslOUj3dI481fLi96XraGFpul4.jpg",PEAKY BLINDERS S04 E02
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1118772.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hICJbOPyaKGNwI6w10fbZc7zqq.jpg",PEAKY BLINDERS S04 E03
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1118773.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9W5UtzSNPA4YSuRZdhC2tyiFkah.jpg",PEAKY BLINDERS S04 E04
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1118774.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvfJVdkEW0reVa1DoLqBSWadMxG.jpg",PEAKY BLINDERS S04 E05
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1118775.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oznSCw2RggRbxHIQsFSOM9it5pV.jpg",PEAKY BLINDERS S04 E06
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1118776.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgGfj0YWWH2rsS5XVtOjGdC5G2.jpg",PEAKY BLINDERS S05 E01
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1118777.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ajQxbY28xuFPUoPfNXH2f8Cyi4.jpg",PEAKY BLINDERS S05 E02
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1118778.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPhtB5KxpNAR1SOhj7eydgrAaXX.jpg",PEAKY BLINDERS S05 E03
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1118779.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9o9Obi0uzcAksnocm14AViXhYZu.jpg",PEAKY BLINDERS S05 E04
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1118780.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EvMNs9p7NEzV4VUQioUL2GTU2W.jpg",PEAKY BLINDERS S05 E05
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1118781.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w300/tK75oU0JfkCAZfC4QWuA1uPDMDg.jpg",PEAKY BLINDERS S05 E06
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1118782.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCmmKG9He0lIp7RITOxbqzOfURF.jpg",PEAKY BLINDERS S06 E01
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1128153.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6C8T76p9kbHs62sz6VRVCnTZTS.jpg",PEAKY BLINDERS S06 E02
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1128154.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oPTroNgWE75kUf8hWoX7qJTdVp.jpg",PEAKY BLINDERS S06 E03
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1128155.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53RBnbWROENe9wnT13tfOl2t3lg.jpg",PEAKY BLINDERS S06 E04
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1128156.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLYq28eSV8zierLtoywFGATOmJw.jpg",PEAKY BLINDERS S06 E05
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1128157.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SERIES - CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/caBuctwmvKPJNuJD3FYdd8UxTtE.jpg",PEAKY BLINDERS S06 E06
-http://ac.ntvlatino.com:8080/series/genovevaf/geo540hm/1128158.mkv
+Playlist
+Playlist Finder
+15 jul 2023 a las 16:02
+#EXTM3U
+#EXTINF:-1,13 C
+http://179.51.168.13:4000/play/a06j
+#EXTINF:-1,13 c hd
+http://179.51.168.13:4000/play/a06y
+#EXTINF:-1,24 horas 99
+http://179.51.168.13:4000/play/a04n
+#EXTINF:-1,A&E HD 99
+http://179.51.168.13:4000/play/a04p
+#EXTINF:-1,A&E HD_c
+http://179.51.168.13:4000/play/a04l
+#EXTINF:-1,AE Mundo
+http://179.51.168.13:4000/play/a02m
+#EXTINF:-1,AMC HD 99
+http://179.51.168.13:4000/play/a06s
+#EXTINF:-1,AMC HD_a
+http://179.51.168.13:4000/play/uy7
+#EXTINF:-1,ANIMAL PLANET HD 99
+http://179.51.168.13:4000/play/a04q
+#EXTINF:-1,AXN HD 99
+http://179.51.168.13:4000/play/a04r
+#EXTINF:-1,AXN_HD_NEVO
+http://179.51.168.13:4000/play/ADQ16
+#EXTINF:-1,AZTECA CINEMA HD 99
+http://179.51.168.13:4000/play/a06n
+#EXTINF:-1,AZTECA CLIC HD 99
+http://179.51.168.13:4000/play/a06u
+#EXTINF:-1,AZTECA CORAZON HD 99
+http://179.51.168.13:4000/play/a06o
+#EXTINF:-1,BITME HD 99
+http://179.51.168.13:4000/play/a04s
+#EXTINF:-1,CANAL 13 HD 99
+http://179.51.168.13:4000/play/a04y
+#EXTINF:-1,CANAL13_HD_NUEVO
+http://179.51.168.13:4000/play/ADQ3
+#EXTINF:-1,CARTOON NETWORK HD_99
+http://179.51.168.13:4000/play/a042
+#EXTINF:-1,CARTOONITO HD 99
+http://179.51.168.13:4000/play/a06p
+#EXTINF:-1,CHV
+http://179.51.168.13:4000/play/z009
+#EXTINF:-1,CHV HD 99
+http://179.51.168.13:4000/play/a05a
+#EXTINF:-1,CHV_HD_NUEVO
+http://179.51.168.13:4000/play/ADQ4
+#EXTINF:-1,CINE FAMILIAR HD 99
+http://179.51.168.13:4000/play/a05h
+#EXTINF:-1,CINE HISPANO HD 99
+http://179.51.168.13:4000/play/a05i
+#EXTINF:-1,CINE PREMIUM HD 99
+http://179.51.168.13:4000/play/a05j
+#EXTINF:-1,CINECANAL
+http://179.51.168.13:4000/play/a048
+#EXTINF:-1,CINECANAL HD 99
+http://179.51.168.13:4000/play/a05k
+#EXTINF:-1,CINEMAX HD
+http://179.51.168.13:4000/play/a04c
+#EXTINF:-1,CINEMAX HD 99
+http://179.51.168.13:4000/play/a05l
+#EXTINF:-1,CNN CHILE HD
+http://179.51.168.13:4000/play/a05m
+#EXTINF:-1,CNN SPANISH 99
+http://179.51.168.13:4000/play/a05n
+#EXTINF:-1,Cartoon Network
+http://179.51.168.13:4000/play/a02d
+#EXTINF:-1,Cinecanal
+http://179.51.168.13:4000/play/a02q
+#EXTINF:-1,Cinemax
+http://179.51.168.13:4000/play/a02r
+#EXTINF:-1,Comedy Central HD
+http://179.51.168.13:4000/play/a030
+#EXTINF:-1,DEPELICULA HD 99
+http://179.51.168.13:4000/play/a06t
+#EXTINF:-1,DHE HD
+http://179.51.168.13:4000/play/a03u
+#EXTINF:-1,DISCOVERY CHANNEL HD 99
+http://179.51.168.13:4000/play/a05o
+#EXTINF:-1,DISCOVERY H&H HD 99
+http://179.51.168.13:4000/play/a05p
+#EXTINF:-1,DISCOVERY ID HD 99
+http://179.51.168.13:4000/play/a05q
+#EXTINF:-1,DISCOVERY KIDS HD 99
+http://179.51.168.13:4000/play/a05r
+#EXTINF:-1,DISCOVERY SCIENCE HD 99
+http://179.51.168.13:4000/play/a05s
+#EXTINF:-1,DISCOVERY THEATER HD
+http://179.51.168.13:4000/play/a05t
+#EXTINF:-1,DISCOVERY TURBO
+http://179.51.168.13:4000/play/a04w
+#EXTINF:-1,DISCOVERY TURBO HD 99
+http://179.51.168.13:4000/play/a05u
+#EXTINF:-1,DISCOVERY WORLD 99
+http://179.51.168.13:4000/play/a05v
+#EXTINF:-1,DISNEY CHANNEL HD 99
+http://179.51.168.13:4000/play/a05w
+#EXTINF:-1,DISNEY JUNIOR HD 99
+http://179.51.168.13:4000/play/a05x
+#EXTINF:-1,DISTRITO COMEDIA HD
+http://179.51.168.13:4000/play/a05y
+#EXTINF:-1,Discovery Channel
+http://179.51.168.13:4000/play/a02s
+#EXTINF:-1,Discovery ID_c
+http://179.51.168.13:4000/play/a02t
+#EXTINF:-1,Discovery Kids
+http://179.51.168.13:4000/play/a02e
+#EXTINF:-1,Discovery Turbo
+http://179.51.168.13:4000/play/a02u
+#EXTINF:-1,Disney Channel
+http://179.51.168.13:4000/play/a02f
+#EXTINF:-1,Disney Jr
+http://179.51.168.13:4000/play/a02g
+#EXTINF:-1,Dreamworks HD 99
+http://179.51.168.13:4000/play/a05z
+#EXTINF:-1,E Entertainment
+http://179.51.168.13:4000/play/a02p
+#EXTINF:-1,ESPN
+http://179.51.168.13:4000/play/a02v
+#EXTINF:-1,ESPN 2
+http://179.51.168.13:4000/play/a02w
+#EXTINF:-1,ESPN 2 HD 99
+http://179.51.168.13:4000/play/a060
+#EXTINF:-1,ESPN 3
+http://179.51.168.13:4000/play/a02x
+#EXTINF:-1,ESPN 3 HD 99
+http://179.51.168.13:4000/play/a061
+#EXTINF:-1,ESPN 3 HD_A
+http://179.51.168.13:4000/play/a053
+#EXTINF:-1,ESPN 4 99
+http://179.51.168.13:4000/play/a04o
+#EXTINF:-1,ESPN EXTRA 99
+http://179.51.168.13:4000/play/a062
+#EXTINF:-1,ESPN EXTRA HD_A
+http://179.51.168.13:4000/play/a054
+#EXTINF:-1,ESPN HD 99
+http://179.51.168.13:4000/play/a063
+#EXTINF:-1,ETC
+http://179.51.168.13:4000/play/a05c
+#EXTINF:-1,ETC HD 99
+http://179.51.168.13:4000/play/a06r
+#EXTINF:-1,El Gourmet HD_A
+http://179.51.168.13:4000/play/a03y
+#EXTINF:-1,El Gourmet hd
+http://179.51.168.13:4000/play/a06m
+#EXTINF:-1,El Gourmet hd 99
+http://179.51.168.13:4000/play/a06i
+#EXTINF:-1,FANTACIA TV
+http://179.51.168.13:4000/play/a02j
+#EXTINF:-1,FOOD NETWORK HD 99
+http://179.51.168.13:4000/play/a064
+#EXTINF:-1,FOX HD 99
+http://179.51.168.13:4000/play/a065
+#EXTINF:-1,FOX Sports 2 HD_A
+http://179.51.168.13:4000/play/a056
+#EXTINF:-1,FOX_HD_NUEVO
+http://179.51.168.13:4000/play/ADQ20
+#EXTINF:-1,FX
+http://179.51.168.13:4000/play/a031
+#EXTINF:-1,FX HD 99
+http://179.51.168.13:4000/play/a066
+#EXTINF:-1,Fox Sports
+http://179.51.168.13:4000/play/a035
+#EXTINF:-1,Fox Sports 1
+http://179.51.168.13:4000/play/a036
+#EXTINF:-1,Fox Sports 1 HD_A
+http://179.51.168.13:4000/play/a055
+#EXTINF:-1,Fox Sports 3
+http://179.51.168.13:4000/play/a038
+#EXTINF:-1,Fox Sports 3 HD_A
+http://179.51.168.13:4000/play/a057
+#EXTINF:-1,GOLDEN EDGE HD 99
+http://179.51.168.13:4000/play/a05e
+#EXTINF:-1,H2 HD 99
+http://179.51.168.13:4000/play/a068
+#EXTINF:-1,HBO
+http://179.51.168.13:4000/play/a039
+#EXTINF:-1,HBO 2
+http://179.51.168.13:4000/play/a03a
+#EXTINF:-1,HBO Family
+http://179.51.168.13:4000/play/a03b
+#EXTINF:-1,HBO HD 99
+http://179.51.168.13:4000/play/a069
+#EXTINF:-1,HBO HD_A
+http://179.51.168.13:4000/play/a041
+#EXTINF:-1,HBO POP
+http://179.51.168.13:4000/play/a02o
+#EXTINF:-1,HBO Plus
+http://179.51.168.13:4000/play/a03c
+#EXTINF:-1,HBO XTREME
+http://179.51.168.13:4000/play/a03d
+#EXTINF:-1,HD DTVS
+http://179.51.168.13:4000/play/a06w
+#EXTINF:-1,HISTORY HD
+http://179.51.168.13:4000/play/a03z
+#EXTINF:-1,HISTORY HD 99
+http://179.51.168.13:4000/play/a06a
+#EXTINF:-1,History Channel
+http://179.51.168.13:4000/play/a03e
+#EXTINF:-1,Home and Health
+http://179.51.168.13:4000/play/a03f
+#EXTINF:-1,I-Sat
+http://179.51.168.13:4000/play/a03g
+#EXTINF:-1,LA RED HD 99
+http://179.51.168.13:4000/play/a06b
+#EXTINF:-1,LA RED SD
+http://179.51.168.13:4000/play/JA001
+#EXTINF:-1,LAS ESTRELLAS HD 99
+http://179.51.168.13:4000/play/a06c
+#EXTINF:-1,LOVE NATURE HD 99
+http://179.51.168.13:4000/play/a06d
+#EXTINF:-1,MAC CHIC 99
+http://179.51.168.13:4000/play/a06e
+#EXTINF:-1,MEGA HD 99
+http://179.51.168.13:4000/play/a06f
+#EXTINF:-1,MEGA sd
+http://179.51.168.13:4000/play/a03q
+#EXTINF:-1,MEGA_HD_NUEVO
+http://179.51.168.13:4000/play/ADQ1
+#EXTINF:-1,MTV
+http://179.51.168.13:4000/play/a03i
+#EXTINF:-1,MTV LIVE HD
+http://179.51.168.13:4000/play/a06l
+#EXTINF:-1,NAT GEO HD
+http://179.51.168.13:4000/play/a03v
+#EXTINF:-1,NAT GEO HD 99
+http://179.51.168.13:4000/play/a06g
+#EXTINF:-1,NICK JUNIOR HD 99
+http://179.51.168.13:4000/play/a06h
+#EXTINF:-1,NTV HD
+http://179.51.168.13:4000/play/a03o
+#EXTINF:-1,Nat Geo
+http://179.51.168.13:4000/play/a02i
+#EXTINF:-1,Nick Jr
+http://179.51.168.13:4000/play/a02k
+#EXTINF:-1,Nickelodeon
+http://179.51.168.13:4000/play/a02l
+#EXTINF:-1,PARAMOUNT HD
+http://179.51.168.13:4000/play/a04e
+#EXTINF:-1,PARAMOUNT HD 99
+http://179.51.168.13:4000/play/asd2
+#EXTINF:-1,PASIONES HD 99
+http://179.51.168.13:4000/play/UAY22
+#EXTINF:-1,PXSPORTS HD
+http://179.51.168.13:4000/play/a04b
+#EXTINF:-1,RCN Novelas
+http://179.51.168.13:4000/play/a032
+#EXTINF:-1,Rec TV
+http://179.51.168.13:4000/play/a06k
+#EXTINF:-1,SONY HD
+http://179.51.168.13:4000/play/a04h
+#EXTINF:-1,SONY HD 99
+http://179.51.168.13:4000/play/a03x
+#EXTINF:-1,SONY MOVIES HD 99
+http://179.51.168.13:4000/play/a05g
+#EXTINF:-1,SPACE HD NUEVO:1
+http://179.51.168.13:4000/play/a06x
+#EXTINF:-1,SPACE HD1111
+http://179.51.168.13:4000/play/a04a
+#EXTINF:-1,STAR CHANNEL 99
+http://179.51.168.13:4000/play/a033
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://179.51.168.13:4000/play/a04f
+#EXTINF:-1,STUDIO UNIVERSAL HD 99
+http://179.51.168.13:4000/play/a02n
+#EXTINF:-1,Sony
+http://179.51.168.13:4000/play/a03k
+#EXTINF:-1,Space
+http://179.51.168.13:4000/play/a03h
+#EXTINF:-1,Sun Channel HD_A
+http://179.51.168.13:4000/play/a04z
+#EXTINF:-1,TBS
+http://179.51.168.13:4000/play/a03j
+#EXTINF:-1,TCM
+http://179.51.168.13:4000/play/a03l
+#EXTINF:-1,TLC HD 99
+http://179.51.168.13:4000/play/a046
+#EXTINF:-1,TLNOVELAS 99
+http://179.51.168.13:4000/play/a067
+#EXTINF:-1,TNT
+http://179.51.168.13:4000/play/a03m
+#EXTINF:-1,TNT HD
+http://179.51.168.13:4000/play/a047
+#EXTINF:-1,TNT HD 99
+http://179.51.168.13:4000/play/z00p
+#EXTINF:-1,TNT SERIES HD 99
+http://179.51.168.13:4000/play/a03w
+#EXTINF:-1,TNT SPORT HD
+http://179.51.168.13:4000/play/ay34
+#EXTINF:-1,TNT SPORT HD 99
+http://179.51.168.13:4000/play/a06v
+#EXTINF:-1,TNT SPORTS HD_C
+http://179.51.168.13:4000/play/a058
+#EXTINF:-1,TNT Series HD
+http://179.51.168.13:4000/play/a045
+#EXTINF:-1,TNT_SERIES_HD_NEUVO
+http://179.51.168.13:4000/play/ADQ14
+#EXTINF:-1,TOONCAST hd 99
+http://179.51.168.13:4000/play/a06q
+#EXTINF:-1,TRUTV HD_A
+http://179.51.168.13:4000/play/a044
+#EXTINF:-1,TV+ HD
+http://179.51.168.13:4000/play/a049
+#EXTINF:-1,TVN HD 99
+http://179.51.168.13:4000/play/ADQ2
+#EXTINF:-1,TVN SD
+http://179.51.168.13:4000/play/QEU91
+#EXTINF:-1,TVN_HD_1
+http://179.51.168.13:4000/play/asd5
+#EXTINF:-1,Travel and Living
+http://179.51.168.13:4000/play/a03n
+#EXTINF:-1,UNIVARSAL CHANNEL HD 99
+http://179.51.168.13:4000/play/a02z
+#EXTINF:-1,UNIVARSAL CHANNEL HD 99
+http://179.51.168.13:4000/play/a04u
+#EXTINF:-1,UNIVARSAL CHANNEL HD 99
+http://179.51.168.13:4000/play/a02y
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://179.51.168.13:4000/play/a04k
+#EXTINF:-1,UNIVERSAL_HD_NUEVO
+http://179.51.168.13:4000/play/ADQ15
+#EXTINF:-1,WARNER HD 99
+http://179.51.168.13:4000/play/a04g
+#EXTINF:-1,Warner
+http://179.51.168.13:4000/play/a03p
+#EXTINF:-1,_ FOX SPORT 3 HD 99
+http://179.51.168.13:4000/play/a04i
+#EXTINF:-1,canal infantil _99
+http://179.51.168.13:4000/play/a01521
+#EXTINF:-1,fox sport 2
+http://179.51.168.13:4000/play/ag45
+#EXTINF:-1,life time
+http://179.51.168.13:4000/play/a05f
+#EXTINF:-1,teletrak_A
+http://179.51.168.13:4000/play/a050
+#EXTINF:-1,zona laitna
+http://179.51.168.13:4000/play/a05b
