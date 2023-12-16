@@ -1,147 +1,257 @@
 #EXTM3U
-#EXTINF:-1,AE Mundo
-http://181.78.85.154:2022/play/a03a/index.m3u8
-#EXTINF:-1,AMC HD
-http://181.78.85.154:2022/play/a05j/index.m3u8
-#EXTINF:-1,AXN
-http://181.78.85.154:2022/play/a00u/index.m3u8
-#EXTINF:-1,AZ Cinema HD
-http://181.78.85.154:2022/play/a05z/index.m3u8
-#EXTINF:-1,Animal Planet
-http://181.78.85.154:2022/play/a034/index.m3u8
-#EXTINF:-1,Animal Planet HD
-http://181.78.85.154:2022/play/a05r/index.m3u8
-#EXTINF:-1,BabyFirst
-http://181.78.85.154:2022/play/a026/index.m3u8
-#EXTINF:-1,Canal Caracol
-http://181.78.85.154:2022/play/a03y/index.m3u8
-#EXTINF:-1,Canal Estrellas
-http://181.78.85.154:2022/play/a05e/index.m3u8
-#EXTINF:-1,Canal Institucional
-http://181.78.85.154:2022/play/a040/index.m3u8
-#EXTINF:-1,Canal RCN
-http://181.78.85.154:2022/play/a03z/index.m3u8
-#EXTINF:-1,Canal Uno
-http://181.78.85.154:2022/play/a03x/index.m3u8
-#EXTINF:-1,Cartoon Network HD
-http://181.78.85.154:2022/play/a05m/index.m3u8
-#EXTINF:-1,Cinecanal
-http://181.78.85.154:2022/play/a01x/index.m3u8
-#EXTINF:-1,Cinecanal HD
-http://181.78.85.154:2022/play/a05i/index.m3u8
-#EXTINF:-1,Cinemax
-http://181.78.85.154:2022/play/a00s/index.m3u8
-#EXTINF:-1,City TV
-http://181.78.85.154:2022/play/a045/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://181.78.85.154:2022/play/a05d/index.m3u8
-#EXTINF:-1,Discovery ID
-http://181.78.85.154:2022/play/a01a/index.m3u8
-#EXTINF:-1,Discovery Kids HD
-http://181.78.85.154:2022/play/a011e/index.m3u8
-#EXTINF:-1,Discovery Turbo
-http://181.78.85.154:2022/play/a014/index.m3u8
-#EXTINF:-1,Discovery World HD
-http://181.78.85.154:2022/play/a05h/index.m3u8
-#EXTINF:-1,Disney Channel
-http://181.78.85.154:2022/play/a032/index.m3u8
-#EXTINF:-1,Disney Jr
-http://181.78.85.154:2022/play/a04d/index.m3u8
-#EXTINF:-1,E Entertainment
-http://181.78.85.154:2022/play/a036/index.m3u8
-#EXTINF:-1,ESPN
-http://181.78.85.154:2022/play/a038/index.m3u8
-#EXTINF:-1,ESPN 2 Latin
-http://181.78.85.154:2022/play/a05s/index.m3u8
-#EXTINF:-1,ESPN 3
-http://181.78.85.154:2022/play/a04h/index.m3u8
-#EXTINF:-1,ESPN 4
-http://181.78.85.154:2022/play/a01f/index.m3u8
-#EXTINF:-1,ESPN CO
-http://181.78.85.154:2022/play/a043/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://181.78.85.154:2022/play/a05k/index.m3u8
-#EXTINF:-1,Enlace
-http://181.78.85.154:2022/play/a04g/index.m3u8
-#EXTINF:-1,Esne TV
-http://181.78.85.154:2022/play/a04i/index.m3u8
-#EXTINF:-1,FX
-http://181.78.85.154:2022/play/a00w/index.m3u8
-#EXTINF:-1,Fox Sports 2
-http://181.78.85.154:2022/play/a03c/index.m3u8
-#EXTINF:-1,Fox Sports 3
-http://181.78.85.154:2022/play/a03d/index.m3u8
-#EXTINF:-1,HBO 2 HD
-http://181.78.85.154:2022/play/a05q/index.m3u8
-#EXTINF:-1,HBO HD
-http://181.78.85.154:2022/play/a05l/index.m3u8
-#EXTINF:-1,History Channel
-http://181.78.85.154:2022/play/a01w/index.m3u8
-#EXTINF:-1,HomeandHealth
-http://181.78.85.154:2022/play/a01d/index.m3u8
-#EXTINF:-1,Kanal D Drama HD
-http://181.78.85.154:2022/play/a063/index.m3u8
-#EXTINF:-1,MEGA HD
-http://181.78.85.154:2022/play/a062/index.m3u8
-#EXTINF:-1,MTV
-http://181.78.85.154:2022/play/a020/index.m3u8
-#EXTINF:-1,NTV
-http://181.78.85.154:2022/play/a060/index.m3u8
-#EXTINF:-1,Nat Geo
-http://181.78.85.154:2022/play/a01v/index.m3u8
-#EXTINF:-1,Nat Geo HD
-http://181.78.85.154:2022/play/a05g/index.m3u8
-#EXTINF:-1,Nick Jr
-http://181.78.85.154:2022/play/a013/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://181.78.85.154:2022/play/a01u/index.m3u8
-#EXTINF:-1,Paramount HD
-http://181.78.85.154:2022/play/a05n/index.m3u8
-#EXTINF:-1,RCN Novelas
-http://181.78.85.154:2022/play/a019/index.m3u8
-#EXTINF:-1,STAR CHANNEL
-http://181.78.85.154:2022/play/a022/index.m3u8
-#EXTINF:-1,STAR TVE HD
-http://181.78.85.154:2022/play/a05p/index.m3u8
-#EXTINF:-1,Senal Colombia
-http://181.78.85.154:2022/play/a041/index.m3u8
-#EXTINF:-1,Sin Limites
-http://181.78.85.154:2022/play/a04a/index.m3u8
-#EXTINF:-1,Sony
-http://181.78.85.154:2022/play/a00t/index.m3u8
-#EXTINF:-1,Space
-http://181.78.85.154:2022/play/a00v/index.m3u8
-#EXTINF:-1,Studio Universal HD
-http://181.78.85.154:2022/play/a05o/index.m3u8
-#EXTINF:-1,SyFy
-http://181.78.85.154:2022/play/a027/index.m3u8
-#EXTINF:-1,TLC
-http://181.78.85.154:2022/play/a03b/index.m3u8
-#EXTINF:-1,TNT
-http://181.78.85.154:2022/play/a023/index.m3u8
-#EXTINF:-1,TNT Novelas
-http://181.78.85.154:2022/play/a047/index.m3u8
-#EXTINF:-1,TV+ HD
-http://181.78.85.154:2022/play/a061/index.m3u8
-#EXTINF:-1,Teleantioquia
-http://181.78.85.154:2022/play/a00x/index.m3u8
-#EXTINF:-1,Telecafe
-http://181.78.85.154:2022/play/a018/index.m3u8
-#EXTINF:-1,Telecaribe
-http://181.78.85.154:2022/play/a016/index.m3u8
-#EXTINF:-1,Telemundo
-http://181.78.85.154:2022/play/a03e/index.m3u8
-#EXTINF:-1,Telepacifico
-http://181.78.85.154:2022/play/a00z/index.m3u8
-#EXTINF:-1,Universal
-http://181.78.85.154:2022/play/a01y/index.m3u8
-#EXTINF:-1,ViaX
-http://181.78.85.154:2022/play/a031/index.m3u8
-#EXTINF:-1,Warner
-http://181.78.85.154:2022/play/a035/index.m3u8
-#EXTINF:-1,Win
-http://181.78.85.154:2022/play/a00y/index.m3u8
-#EXTINF:-1,Win Sports+ HD
-http://181.78.85.154:2022/play/a05f/index.m3u8
-#EXTINF:-1,Zoom
-http://181.78.85.154:2022/play/a044/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S01 E01
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S01 E02
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S01 E03
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S01 E04
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S01 E05
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S01 E06
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S01 E07
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S01 E08
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S01 E09
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S01 E10
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S01 E11
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S01 E12
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S01 E13
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S01 E14
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S01 E15
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S01 E16
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S01 E17
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S01 E18
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S01 E19
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S01 E20
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S01 E21
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S01 E22
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S01 E23
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S01 E24
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S01 E25
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S01 E26
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S02 E01
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S02 E02
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S02 E03
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S02 E04
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S02 E05
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S02 E06
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S02 E07
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S02 E08
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S02 E09
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S02 E10
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S02 E11
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S02 E12
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S02 E13
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S02 E14
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S02 E15
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S02 E16
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S02 E17
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S02 E18
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S02 E19
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S02 E20
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S02 E21
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S02 E22
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S02 E23
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S02 E24
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S02 E25
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S02 E26
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S03 E01
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S03 E02
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S03 E03
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S03 E04
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S03 E05
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S03 E06
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S03 E07
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S03 E08
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S03 E09
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S03 E10
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S03 E11
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S03 E12
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S03 E13
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S03 E14
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S03 E15
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S03 E16
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S03 E17
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S03 E18
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S03 E19
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S03 E20
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S03 E21
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S03 E22
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S03 E23
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S03 E24
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S03 E25
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S03 E26
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S04 E01
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S04 E02
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S04 E03
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S04 E04
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S04 E05
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S04 E06
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S04 E07
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S04 E08
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S04 E09
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S04 E10
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S04 E11
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S04 E12
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S04 E13
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S04 E14
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S04 E15
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S04 E16
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S04 E17
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S04 E18
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S04 E19
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S04 E20
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S04 E21
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S04 E22
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S04 E23
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S04 E24
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S04 E25
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S04 E26
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S05 E01
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S05 E02
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S05 E03
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S05 E04
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S05 E05
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S05 E06
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S05 E07
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S05 E08
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S05 E09
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S05 E10
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S05 E11
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S05 E12
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S05 E13
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S05 E14
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S05 E15
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S05 E16
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S05 E17
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S05 E18
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S05 E19
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S05 E20
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S05 E21
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S05 E22
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S05 E23
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",SUPER CAMPEONES S05 E24
+http://pro.boxdigital.org:8080/series/MercedesOrozco/n2Wwew5tV/222505.mp4
