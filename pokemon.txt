@@ -1,0 +1,2116 @@
+﻿#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E01
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E02
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E03
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E04
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E05
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E06
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E07
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E08
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E09
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E10
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E11
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E12
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E13
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E14
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E15
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E16
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E17
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E18
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E19
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E20
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E21
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E22
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E23
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E24
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E25
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E26
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E27
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E28
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E29
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E30
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E31
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E32
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E33
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E34
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E35
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E36
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E37
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E38
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E39
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E40
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E41
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E42
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E43
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E44
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E45
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E46
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E47
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E48
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E49
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E50
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E51
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E52
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E53
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E54
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E55
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E56
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E57
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E58
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E59
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E60
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E61
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E62
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E63
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E64
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E65
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E66
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E67
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E68
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E69
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E70
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E71
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E72
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E73
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E74
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E75
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E76
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E77
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E78
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E79
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E80
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S01 E81
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E01
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259482.flv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E02
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259483.flv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E03
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E04
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E05
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E06
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E07
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E08
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259489.flv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E09
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E10
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259491.flv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E11
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259492.flv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E12
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E13
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E14
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E15
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E16
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E17
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E18
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E19
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E20
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E21
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E22
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E23
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E24
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E25
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E26
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E27
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E28
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E29
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E30
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E31
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E32
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E33
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E34
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E35
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S02 E36
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E01
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E02
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E03
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E04
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E05
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E06
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E07
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E08
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E09
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E10
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E11
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E12
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E13
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E14
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E15
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E16
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E17
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E18
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E19
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E20
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E21
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E22
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E23
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E24
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E25
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E26
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E27
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E28
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E29
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E30
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E31
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E32
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E33
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E34
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E35
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E36
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E37
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E38
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E39
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E40
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S03 E41
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E01
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E02
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E03
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E04
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259562.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E05
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259563.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E06
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E07
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E08
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E09
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E10
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E11
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E12
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E13
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E14
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E15
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E16
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E17
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E18
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E19
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E20
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E21
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E22
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E23
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E24
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E25
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E26
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E27
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E28
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E29
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E30
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E31
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E32
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E33
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E34
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E35
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E36
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E37
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E38
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E39
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E40
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E41
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E42
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E43
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E44
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E45
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E46
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E47
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E48
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E49
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E50
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E51
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S04 E52
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E01
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E02
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E03
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E04
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E05
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E06
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E07
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E08
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E09
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E10
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E11
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E12
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E13
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E14
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E15
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E16
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E17
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E18
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E19
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E20
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E21
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E22
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E23
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E24
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E25
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E26
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E27
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E28
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E29
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E30
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E31
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E32
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E33
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E34
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E35
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E36
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E37
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E38
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E39
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E40
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E41
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E42
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E43
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E44
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E45
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E46
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E47
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E48
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E49
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E50
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E51
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E52
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E53
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E54
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E55
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E56
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E57
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E58
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E59
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E60
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E61
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E62
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E63
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E64
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S05 E65
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E01
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E02
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E03
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E04
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E05
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E06
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E07
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E08
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E09
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E10
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E11
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E12
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E13
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E14
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E15
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E16
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E17
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E18
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E19
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E20
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E21
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E22
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E23
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E24
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E25
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E26
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E27
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E28
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E29
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E30
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E31
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E32
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E33
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E34
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E35
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E36
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E37
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E38
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E39
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S06 E40
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E01
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E02
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E03
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E04
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E05
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E06
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E07
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E08
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E09
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E10
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E11
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E12
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E13
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E14
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E15
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E16
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E17
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E18
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E19
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E20
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E21
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E22
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E23
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E24
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E25
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E26
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E27
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E28
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E29
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E30
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E31
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E32
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E33
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E34
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E35
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E36
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E37
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E38
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E39
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E40
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E41
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E42
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E43
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E44
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E45
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E46
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E47
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E48
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E49
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E50
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S07 E51
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E01
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E02
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E03
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E04
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E05
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E06
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E07
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E08
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E09
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E10
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E11
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E12
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E13
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E14
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E15
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E16
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E17
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E18
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E19
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E20
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E21
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E22
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E23
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E24
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E25
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E26
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E27
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E28
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E29
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E30
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E31
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E32
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E33
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E34
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E35
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E36
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E37
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E38
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E39
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E40
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E41
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E42
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E43
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E44
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E45
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E46
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E47
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E48
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E49
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E50
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E51
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S08 E52
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E01
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E02
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E03
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E04
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E05
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259823.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E06
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E07
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E08
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E09
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E10
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E11
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E12
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E13
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E14
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E15
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E16
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E17
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E18
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E19
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E20
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E21
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E22
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E23
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E24
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E25
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E26
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E27
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E28
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E29
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E30
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E31
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E32
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E33
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E34
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E35
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E36
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E37
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E38
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E39
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E40
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E41
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E42
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E43
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E44
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E45
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S09 E46
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E01
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E02
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E03
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E04
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E05
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E06
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E07
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E08
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E09
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E10
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E11
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E12
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E13
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E14
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E15
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E16
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E17
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E18
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E19
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E20
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E21
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E22
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E23
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E24
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E25
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E26
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E27
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E28
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E29
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E30
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E31
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E32
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E33
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E34
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E35
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E36
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E37
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E38
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E39
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E40
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E41
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E42
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E43
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E44
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E45
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E46
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E47
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E48
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E49
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E50
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S10 E51
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E01
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E02
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E03
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E04
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E05
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E06
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E07
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E08
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E09
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E10
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E11
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E12
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E13
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E14
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E15
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E16
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E17
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E18
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E19
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E20
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E21
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E22
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E23
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E24
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E25
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E26
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E27
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E28
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E29
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E30
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E31
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E32
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E33
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E34
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E35
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E36
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E37
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E38
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E39
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E40
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E41
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E42
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E43
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E44
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E45
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E46
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E47
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E48
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E49
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E50
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E51
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S11 E52
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E01
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E02
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E03
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E04
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E05
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E06
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E07
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E08
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E09
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E10
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E11
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E12
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E13
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E14
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E15
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E16
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E17
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E18
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E19
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E20
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E21
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E22
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E23
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E24
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E25
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E26
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E27
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E28
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E29
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E30
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E31
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/259999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E32
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E33
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E34
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E35
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E36
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E37
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E38
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E39
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E40
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E41
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E42
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E43
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E44
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E45
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E46
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E47
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E48
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E49
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E50
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E51
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S12 E52
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E01
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E02
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E03
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E04
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E05
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E06
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E07
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E08
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E09
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E10
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E11
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E12
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E13
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E14
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E15
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E16
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E17
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E18
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E19
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E20
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E21
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E22
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E23
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E24
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E25
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E26
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E27
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E28
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E29
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E30
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E31
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E32
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E33
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S13 E34
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E01
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E02
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E03
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E04
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E05
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E06
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E07
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E08
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E09
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E10
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E11
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E12
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E13
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E14
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E15
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E16
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E17
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E18
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E19
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E20
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E21
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E22
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E23
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E24
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E25
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E26
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E27
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E28
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E29
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E30
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E31
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E32
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E33
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E34
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E35
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E36
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E37
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E38
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E39
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E40
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E41
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E42
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E43
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E44
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E45
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E46
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E47
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S14 E48
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E01
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E02
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E03
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E04
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E05
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E06
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E07
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E08
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E09
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E10
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E11
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E12
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E13
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E14
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E15
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E16
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E17
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E18
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E19
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E20
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E21
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E22
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E23
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E24
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E25
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E26
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E27
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E28
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E29
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E30
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E31
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E32
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E33
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E34
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E35
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E36
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E37
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E38
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E39
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E40
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E41
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E42
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E43
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E44
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E45
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E46
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E47
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E48
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S15 E49
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E01
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E02
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E03
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E04
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E05
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E06
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E07
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E08
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E09
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E10
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E11
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E12
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E13
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E14
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E15
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E16
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E17
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E18
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E19
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E20
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E21
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E22
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E23
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E24
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E25
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E26
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E27
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E28
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E29
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E30
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E31
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E32
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E33
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E34
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E35
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260186.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E36
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E37
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E38
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E39
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260190.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E40
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E41
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E42
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260193.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E43
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E44
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S16 E45
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E01
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E02
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E03
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E04
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E05
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E06
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E07
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E08
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E09
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E10
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E11
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E12
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E13
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E14
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E15
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E16
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E17
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E18
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E19
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E20
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E21
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E22
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E23
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E24
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E25
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E26
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E27
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E28
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E29
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E30
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E31
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E32
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E33
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E34
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E35
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E36
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E37
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E38
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E39
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E40
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E41
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E42
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E43
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E44
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E45
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E46
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E47
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E48
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S17 E49
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E01
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E02
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E03
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E04
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E05
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E06
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E07
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E08
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E09
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E10
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E11
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E12
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E13
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E14
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E15
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E16
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E17
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E18
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E19
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E20
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E21
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E22
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E23
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E24
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E25
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E26
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E27
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E28
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E29
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E30
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E31
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E32
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E33
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E34
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E35
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E36
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E37
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E38
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E39
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E40
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E41
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E42
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E43
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E44
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S18 E45
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E01
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E02
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E03
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E04
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E05
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E06
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E07
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E08
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E09
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E10
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E11
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E12
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E13
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E14
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E15
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E16
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E17
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E18
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E19
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E20
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E21
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E22
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E23
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E24
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E25
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E26
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E27
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E28
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E29
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E30
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E31
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E32
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E33
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E34
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E35
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E36
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E37
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E38
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E39
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E40
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E41
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E42
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E43
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E44
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E45
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E46
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S19 E47
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E01
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E02
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E03
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E04
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E05
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E06
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E07
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E08
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E09
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E10
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E11
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E12
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E13
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E14
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E15
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E16
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E17
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E18
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E19
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E20
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E21
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E22
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E23
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E24
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E25
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E26
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E27
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E28
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E29
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E30
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E31
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E32
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E33
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E34
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E35
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E36
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E37
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E38
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E39
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E40
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E41
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E42
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S20 E43
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E01
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E02
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E03
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E04
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E05
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E06
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E07
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E08
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E09
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E10
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E11
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E12
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E13
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E14
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E15
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E16
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E17
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E18
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E19
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E20
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E21
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E22
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E23
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E24
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E25
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E26
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E27
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E28
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E29
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E30
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E31
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E32
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E33
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E34
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E35
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E36
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E37
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E38
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E39
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E40
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E41
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E42
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E43
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E44
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E45
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E46
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E47
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E48
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S21 E49
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E01
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E02
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E03
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E04
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E05
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E06
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E07
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E08
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E09
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E10
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E11
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E12
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E13
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E14
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E15
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E16
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E17
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E18
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E19
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E20
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E21
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E22
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E23
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E24
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E25
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E26
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E27
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E28
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E29
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",POKÉMON S22 E30
+http://rasaiptv.com:8080/series/AlexRivera/tNcNm6avPBLQ/260459.mp4
