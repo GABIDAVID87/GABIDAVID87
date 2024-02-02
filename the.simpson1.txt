@@ -1,0 +1,627 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S01 E01
+http://nxt.plus:8080/series/alexandrab/113540/158053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S01 E02
+http://nxt.plus:8080/series/alexandrab/113540/158054.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S01 E03
+http://nxt.plus:8080/series/alexandrab/113540/158055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S01 E04
+http://nxt.plus:8080/series/alexandrab/113540/158056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S01 E05
+http://nxt.plus:8080/series/alexandrab/113540/158057.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S01 E06
+http://nxt.plus:8080/series/alexandrab/113540/158058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S01 E07
+http://nxt.plus:8080/series/alexandrab/113540/158059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S01 E08
+http://nxt.plus:8080/series/alexandrab/113540/158060.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S01 E09
+http://nxt.plus:8080/series/alexandrab/113540/158061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S01 E10
+http://nxt.plus:8080/series/alexandrab/113540/158062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S01 E11
+http://nxt.plus:8080/series/alexandrab/113540/158063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S01 E12
+http://nxt.plus:8080/series/alexandrab/113540/158064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S01 E13
+http://nxt.plus:8080/series/alexandrab/113540/158065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S02 E01
+http://nxt.plus:8080/series/alexandrab/113540/158066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S02 E02
+http://nxt.plus:8080/series/alexandrab/113540/158067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S02 E03
+http://nxt.plus:8080/series/alexandrab/113540/158068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S02 E04
+http://nxt.plus:8080/series/alexandrab/113540/158069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S02 E05
+http://nxt.plus:8080/series/alexandrab/113540/158070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S02 E06
+http://nxt.plus:8080/series/alexandrab/113540/158071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S02 E07
+http://nxt.plus:8080/series/alexandrab/113540/158072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S02 E08
+http://nxt.plus:8080/series/alexandrab/113540/158073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S02 E09
+http://nxt.plus:8080/series/alexandrab/113540/158074.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S02 E10
+http://nxt.plus:8080/series/alexandrab/113540/158075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S02 E11
+http://nxt.plus:8080/series/alexandrab/113540/158076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S02 E12
+http://nxt.plus:8080/series/alexandrab/113540/158077.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S02 E13
+http://nxt.plus:8080/series/alexandrab/113540/158078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S02 E14
+http://nxt.plus:8080/series/alexandrab/113540/158079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S02 E15
+http://nxt.plus:8080/series/alexandrab/113540/158080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S02 E16
+http://nxt.plus:8080/series/alexandrab/113540/158081.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S02 E17
+http://nxt.plus:8080/series/alexandrab/113540/158082.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S02 E18
+http://nxt.plus:8080/series/alexandrab/113540/158083.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S02 E19
+http://nxt.plus:8080/series/alexandrab/113540/158084.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S02 E20
+http://nxt.plus:8080/series/alexandrab/113540/158085.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S02 E21
+http://nxt.plus:8080/series/alexandrab/113540/158086.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S02 E22
+http://nxt.plus:8080/series/alexandrab/113540/158087.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S03 E01
+http://nxt.plus:8080/series/alexandrab/113540/158088.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S03 E02
+http://nxt.plus:8080/series/alexandrab/113540/158089.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S03 E03
+http://nxt.plus:8080/series/alexandrab/113540/158090.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S03 E04
+http://nxt.plus:8080/series/alexandrab/113540/158091.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S03 E05
+http://nxt.plus:8080/series/alexandrab/113540/158092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S03 E06
+http://nxt.plus:8080/series/alexandrab/113540/158093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S03 E07
+http://nxt.plus:8080/series/alexandrab/113540/158094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S03 E08
+http://nxt.plus:8080/series/alexandrab/113540/158095.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S03 E09
+http://nxt.plus:8080/series/alexandrab/113540/158096.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S03 E10
+http://nxt.plus:8080/series/alexandrab/113540/158097.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S03 E11
+http://nxt.plus:8080/series/alexandrab/113540/158098.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S03 E12
+http://nxt.plus:8080/series/alexandrab/113540/158099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S03 E13
+http://nxt.plus:8080/series/alexandrab/113540/158100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S03 E14
+http://nxt.plus:8080/series/alexandrab/113540/158101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S03 E15
+http://nxt.plus:8080/series/alexandrab/113540/158102.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S03 E16
+http://nxt.plus:8080/series/alexandrab/113540/158103.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S03 E17
+http://nxt.plus:8080/series/alexandrab/113540/158104.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S03 E18
+http://nxt.plus:8080/series/alexandrab/113540/158105.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S03 E19
+http://nxt.plus:8080/series/alexandrab/113540/158106.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S03 E20
+http://nxt.plus:8080/series/alexandrab/113540/158107.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S03 E21
+http://nxt.plus:8080/series/alexandrab/113540/158108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S03 E22
+http://nxt.plus:8080/series/alexandrab/113540/158109.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S03 E23
+http://nxt.plus:8080/series/alexandrab/113540/158110.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S03 E24
+http://nxt.plus:8080/series/alexandrab/113540/158111.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S04 E01
+http://nxt.plus:8080/series/alexandrab/113540/158112.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S04 E02
+http://nxt.plus:8080/series/alexandrab/113540/158113.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S04 E03
+http://nxt.plus:8080/series/alexandrab/113540/158114.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S04 E04
+http://nxt.plus:8080/series/alexandrab/113540/158115.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S04 E05
+http://nxt.plus:8080/series/alexandrab/113540/158116.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S04 E06
+http://nxt.plus:8080/series/alexandrab/113540/158117.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S04 E07
+http://nxt.plus:8080/series/alexandrab/113540/158118.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S04 E08
+http://nxt.plus:8080/series/alexandrab/113540/158119.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S04 E09
+http://nxt.plus:8080/series/alexandrab/113540/158120.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S04 E10
+http://nxt.plus:8080/series/alexandrab/113540/158121.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S04 E11
+http://nxt.plus:8080/series/alexandrab/113540/158122.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S04 E12
+http://nxt.plus:8080/series/alexandrab/113540/158123.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S04 E13
+http://nxt.plus:8080/series/alexandrab/113540/158124.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S04 E14
+http://nxt.plus:8080/series/alexandrab/113540/158125.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S04 E15
+http://nxt.plus:8080/series/alexandrab/113540/158126.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S04 E16
+http://nxt.plus:8080/series/alexandrab/113540/158127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S04 E17
+http://nxt.plus:8080/series/alexandrab/113540/158128.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S04 E18
+http://nxt.plus:8080/series/alexandrab/113540/158129.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S04 E19
+http://nxt.plus:8080/series/alexandrab/113540/158130.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S04 E20
+http://nxt.plus:8080/series/alexandrab/113540/158131.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S04 E21
+http://nxt.plus:8080/series/alexandrab/113540/158132.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S04 E22
+http://nxt.plus:8080/series/alexandrab/113540/158133.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S05 E01
+http://nxt.plus:8080/series/alexandrab/113540/158134.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S05 E02
+http://nxt.plus:8080/series/alexandrab/113540/158135.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S05 E03
+http://nxt.plus:8080/series/alexandrab/113540/158136.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S05 E04
+http://nxt.plus:8080/series/alexandrab/113540/158137.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S05 E05
+http://nxt.plus:8080/series/alexandrab/113540/158138.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S05 E06
+http://nxt.plus:8080/series/alexandrab/113540/158139.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S05 E07
+http://nxt.plus:8080/series/alexandrab/113540/158140.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S05 E08
+http://nxt.plus:8080/series/alexandrab/113540/158141.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S05 E09
+http://nxt.plus:8080/series/alexandrab/113540/158142.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S05 E10
+http://nxt.plus:8080/series/alexandrab/113540/158143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S05 E11
+http://nxt.plus:8080/series/alexandrab/113540/158144.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S05 E12
+http://nxt.plus:8080/series/alexandrab/113540/158145.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S05 E13
+http://nxt.plus:8080/series/alexandrab/113540/158146.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S05 E14
+http://nxt.plus:8080/series/alexandrab/113540/158147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S05 E15
+http://nxt.plus:8080/series/alexandrab/113540/158148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S05 E16
+http://nxt.plus:8080/series/alexandrab/113540/158149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S05 E17
+http://nxt.plus:8080/series/alexandrab/113540/158150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S05 E18
+http://nxt.plus:8080/series/alexandrab/113540/158151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S05 E19
+http://nxt.plus:8080/series/alexandrab/113540/158152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S05 E20
+http://nxt.plus:8080/series/alexandrab/113540/158153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S05 E21
+http://nxt.plus:8080/series/alexandrab/113540/158154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S05 E22
+http://nxt.plus:8080/series/alexandrab/113540/158155.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S06 E01
+http://nxt.plus:8080/series/alexandrab/113540/158156.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S06 E02
+http://nxt.plus:8080/series/alexandrab/113540/158157.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S06 E03
+http://nxt.plus:8080/series/alexandrab/113540/158158.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S06 E04
+http://nxt.plus:8080/series/alexandrab/113540/158159.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S06 E05
+http://nxt.plus:8080/series/alexandrab/113540/158160.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S06 E06
+http://nxt.plus:8080/series/alexandrab/113540/158161.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S06 E07
+http://nxt.plus:8080/series/alexandrab/113540/158162.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S06 E08
+http://nxt.plus:8080/series/alexandrab/113540/158163.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S06 E09
+http://nxt.plus:8080/series/alexandrab/113540/158164.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S06 E10
+http://nxt.plus:8080/series/alexandrab/113540/158165.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S06 E11
+http://nxt.plus:8080/series/alexandrab/113540/158166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S06 E12
+http://nxt.plus:8080/series/alexandrab/113540/158167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S06 E13
+http://nxt.plus:8080/series/alexandrab/113540/158168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S06 E14
+http://nxt.plus:8080/series/alexandrab/113540/158169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S06 E15
+http://nxt.plus:8080/series/alexandrab/113540/158170.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S06 E16
+http://nxt.plus:8080/series/alexandrab/113540/158171.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S06 E17
+http://nxt.plus:8080/series/alexandrab/113540/158172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S06 E18
+http://nxt.plus:8080/series/alexandrab/113540/158173.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S06 E19
+http://nxt.plus:8080/series/alexandrab/113540/158174.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S06 E20
+http://nxt.plus:8080/series/alexandrab/113540/158175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S06 E21
+http://nxt.plus:8080/series/alexandrab/113540/158176.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S06 E22
+http://nxt.plus:8080/series/alexandrab/113540/158177.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S06 E23
+http://nxt.plus:8080/series/alexandrab/113540/158178.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S06 E24
+http://nxt.plus:8080/series/alexandrab/113540/158179.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S06 E25
+http://nxt.plus:8080/series/alexandrab/113540/158180.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S07 E01
+http://nxt.plus:8080/series/alexandrab/113540/158181.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S07 E02
+http://nxt.plus:8080/series/alexandrab/113540/158182.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S07 E03
+http://nxt.plus:8080/series/alexandrab/113540/158183.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S07 E04
+http://nxt.plus:8080/series/alexandrab/113540/158184.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S07 E05
+http://nxt.plus:8080/series/alexandrab/113540/158185.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S07 E06
+http://nxt.plus:8080/series/alexandrab/113540/158186.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S07 E07
+http://nxt.plus:8080/series/alexandrab/113540/158187.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S07 E08
+http://nxt.plus:8080/series/alexandrab/113540/158188.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S07 E09
+http://nxt.plus:8080/series/alexandrab/113540/158189.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S07 E10
+http://nxt.plus:8080/series/alexandrab/113540/158190.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S07 E11
+http://nxt.plus:8080/series/alexandrab/113540/158191.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S07 E12
+http://nxt.plus:8080/series/alexandrab/113540/158192.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S07 E13
+http://nxt.plus:8080/series/alexandrab/113540/158193.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S07 E14
+http://nxt.plus:8080/series/alexandrab/113540/158194.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S07 E15
+http://nxt.plus:8080/series/alexandrab/113540/158195.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S07 E16
+http://nxt.plus:8080/series/alexandrab/113540/158196.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S07 E17
+http://nxt.plus:8080/series/alexandrab/113540/158197.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S07 E18
+http://nxt.plus:8080/series/alexandrab/113540/158198.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S07 E19
+http://nxt.plus:8080/series/alexandrab/113540/158199.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S07 E20
+http://nxt.plus:8080/series/alexandrab/113540/158200.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S07 E21
+http://nxt.plus:8080/series/alexandrab/113540/158201.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S07 E22
+http://nxt.plus:8080/series/alexandrab/113540/158202.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S07 E23
+http://nxt.plus:8080/series/alexandrab/113540/158203.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S07 E24
+http://nxt.plus:8080/series/alexandrab/113540/158204.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S07 E25
+http://nxt.plus:8080/series/alexandrab/113540/158205.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S08 E01
+http://nxt.plus:8080/series/alexandrab/113540/158206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S08 E02
+http://nxt.plus:8080/series/alexandrab/113540/158207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S08 E03
+http://nxt.plus:8080/series/alexandrab/113540/158208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S08 E04
+http://nxt.plus:8080/series/alexandrab/113540/158209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S08 E05
+http://nxt.plus:8080/series/alexandrab/113540/158210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S08 E06
+http://nxt.plus:8080/series/alexandrab/113540/158211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S08 E07
+http://nxt.plus:8080/series/alexandrab/113540/158212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S08 E08
+http://nxt.plus:8080/series/alexandrab/113540/158213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S08 E09
+http://nxt.plus:8080/series/alexandrab/113540/158214.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S08 E10
+http://nxt.plus:8080/series/alexandrab/113540/158215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S08 E11
+http://nxt.plus:8080/series/alexandrab/113540/158216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S08 E12
+http://nxt.plus:8080/series/alexandrab/113540/158217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S08 E13
+http://nxt.plus:8080/series/alexandrab/113540/158218.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S08 E14
+http://nxt.plus:8080/series/alexandrab/113540/158219.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S08 E15
+http://nxt.plus:8080/series/alexandrab/113540/158220.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S08 E16
+http://nxt.plus:8080/series/alexandrab/113540/158221.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S08 E17
+http://nxt.plus:8080/series/alexandrab/113540/158222.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S08 E18
+http://nxt.plus:8080/series/alexandrab/113540/158223.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S08 E19
+http://nxt.plus:8080/series/alexandrab/113540/158224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S08 E20
+http://nxt.plus:8080/series/alexandrab/113540/158225.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S08 E21
+http://nxt.plus:8080/series/alexandrab/113540/158226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S08 E22
+http://nxt.plus:8080/series/alexandrab/113540/158227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S08 E23
+http://nxt.plus:8080/series/alexandrab/113540/158228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S08 E24
+http://nxt.plus:8080/series/alexandrab/113540/158229.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S08 E25
+http://nxt.plus:8080/series/alexandrab/113540/158230.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S09 E01
+http://nxt.plus:8080/series/alexandrab/113540/158231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S09 E02
+http://nxt.plus:8080/series/alexandrab/113540/158232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S09 E03
+http://nxt.plus:8080/series/alexandrab/113540/158233.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S09 E04
+http://nxt.plus:8080/series/alexandrab/113540/158234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S09 E05
+http://nxt.plus:8080/series/alexandrab/113540/158235.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S09 E06
+http://nxt.plus:8080/series/alexandrab/113540/158236.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S09 E07
+http://nxt.plus:8080/series/alexandrab/113540/158237.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S09 E08
+http://nxt.plus:8080/series/alexandrab/113540/158238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S09 E09
+http://nxt.plus:8080/series/alexandrab/113540/158239.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S09 E10
+http://nxt.plus:8080/series/alexandrab/113540/158240.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S09 E11
+http://nxt.plus:8080/series/alexandrab/113540/158241.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S09 E12
+http://nxt.plus:8080/series/alexandrab/113540/158242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S09 E13
+http://nxt.plus:8080/series/alexandrab/113540/158243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S09 E14
+http://nxt.plus:8080/series/alexandrab/113540/158244.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S09 E15
+http://nxt.plus:8080/series/alexandrab/113540/158245.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S09 E16
+http://nxt.plus:8080/series/alexandrab/113540/158246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S09 E17
+http://nxt.plus:8080/series/alexandrab/113540/158247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S09 E18
+http://nxt.plus:8080/series/alexandrab/113540/158248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S09 E19
+http://nxt.plus:8080/series/alexandrab/113540/158249.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S09 E20
+http://nxt.plus:8080/series/alexandrab/113540/158250.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S09 E21
+http://nxt.plus:8080/series/alexandrab/113540/158251.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S09 E22
+http://nxt.plus:8080/series/alexandrab/113540/158252.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S09 E23
+http://nxt.plus:8080/series/alexandrab/113540/158253.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S09 E24
+http://nxt.plus:8080/series/alexandrab/113540/158254.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S09 E25
+http://nxt.plus:8080/series/alexandrab/113540/158255.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S10 E01
+http://nxt.plus:8080/series/alexandrab/113540/158256.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S10 E02
+http://nxt.plus:8080/series/alexandrab/113540/158257.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S10 E03
+http://nxt.plus:8080/series/alexandrab/113540/158258.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S10 E04
+http://nxt.plus:8080/series/alexandrab/113540/158259.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S10 E05
+http://nxt.plus:8080/series/alexandrab/113540/158260.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S10 E06
+http://nxt.plus:8080/series/alexandrab/113540/158261.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S10 E07
+http://nxt.plus:8080/series/alexandrab/113540/158262.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S10 E08
+http://nxt.plus:8080/series/alexandrab/113540/158263.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S10 E09
+http://nxt.plus:8080/series/alexandrab/113540/158264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S10 E10
+http://nxt.plus:8080/series/alexandrab/113540/158265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S10 E11
+http://nxt.plus:8080/series/alexandrab/113540/158266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S10 E12
+http://nxt.plus:8080/series/alexandrab/113540/158267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S10 E13
+http://nxt.plus:8080/series/alexandrab/113540/158268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S10 E14
+http://nxt.plus:8080/series/alexandrab/113540/158269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S10 E15
+http://nxt.plus:8080/series/alexandrab/113540/158270.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S10 E16
+http://nxt.plus:8080/series/alexandrab/113540/158271.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S10 E17
+http://nxt.plus:8080/series/alexandrab/113540/158272.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S10 E18
+http://nxt.plus:8080/series/alexandrab/113540/158273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S10 E19
+http://nxt.plus:8080/series/alexandrab/113540/158274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S10 E20
+http://nxt.plus:8080/series/alexandrab/113540/158275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S10 E21
+http://nxt.plus:8080/series/alexandrab/113540/158276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S10 E22
+http://nxt.plus:8080/series/alexandrab/113540/158277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S10 E23
+http://nxt.plus:8080/series/alexandrab/113540/158278.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S11 E01
+http://nxt.plus:8080/series/alexandrab/113540/158279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S11 E02
+http://nxt.plus:8080/series/alexandrab/113540/158280.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S11 E03
+http://nxt.plus:8080/series/alexandrab/113540/158281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S11 E04
+http://nxt.plus:8080/series/alexandrab/113540/158282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S11 E05
+http://nxt.plus:8080/series/alexandrab/113540/158283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S11 E06
+http://nxt.plus:8080/series/alexandrab/113540/158284.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S11 E07
+http://nxt.plus:8080/series/alexandrab/113540/158285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S11 E08
+http://nxt.plus:8080/series/alexandrab/113540/158286.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S11 E09
+http://nxt.plus:8080/series/alexandrab/113540/158287.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S11 E10
+http://nxt.plus:8080/series/alexandrab/113540/158288.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S11 E11
+http://nxt.plus:8080/series/alexandrab/113540/158289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S11 E12
+http://nxt.plus:8080/series/alexandrab/113540/158290.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S11 E13
+http://nxt.plus:8080/series/alexandrab/113540/158291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S11 E14
+http://nxt.plus:8080/series/alexandrab/113540/158292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S11 E15
+http://nxt.plus:8080/series/alexandrab/113540/158293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S11 E16
+http://nxt.plus:8080/series/alexandrab/113540/158294.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S11 E17
+http://nxt.plus:8080/series/alexandrab/113540/158295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S11 E18
+http://nxt.plus:8080/series/alexandrab/113540/158296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S11 E19
+http://nxt.plus:8080/series/alexandrab/113540/158297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S11 E20
+http://nxt.plus:8080/series/alexandrab/113540/158298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S11 E21
+http://nxt.plus:8080/series/alexandrab/113540/158299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S11 E22
+http://nxt.plus:8080/series/alexandrab/113540/158300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S12 E01
+http://nxt.plus:8080/series/alexandrab/113540/158301.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S12 E02
+http://nxt.plus:8080/series/alexandrab/113540/158302.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S12 E03
+http://nxt.plus:8080/series/alexandrab/113540/158303.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S12 E04
+http://nxt.plus:8080/series/alexandrab/113540/158304.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S12 E05
+http://nxt.plus:8080/series/alexandrab/113540/158305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S12 E06
+http://nxt.plus:8080/series/alexandrab/113540/158306.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S12 E07
+http://nxt.plus:8080/series/alexandrab/113540/158307.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S12 E08
+http://nxt.plus:8080/series/alexandrab/113540/158308.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S12 E09
+http://nxt.plus:8080/series/alexandrab/113540/158309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S12 E10
+http://nxt.plus:8080/series/alexandrab/113540/158310.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S12 E11
+http://nxt.plus:8080/series/alexandrab/113540/158311.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S12 E12
+http://nxt.plus:8080/series/alexandrab/113540/158312.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S12 E13
+http://nxt.plus:8080/series/alexandrab/113540/158313.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S12 E14
+http://nxt.plus:8080/series/alexandrab/113540/158314.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S12 E15
+http://nxt.plus:8080/series/alexandrab/113540/158315.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S12 E16
+http://nxt.plus:8080/series/alexandrab/113540/158316.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S12 E17
+http://nxt.plus:8080/series/alexandrab/113540/158317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S12 E18
+http://nxt.plus:8080/series/alexandrab/113540/158318.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S12 E19
+http://nxt.plus:8080/series/alexandrab/113540/158319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S12 E20
+http://nxt.plus:8080/series/alexandrab/113540/158320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S12 E21
+http://nxt.plus:8080/series/alexandrab/113540/158321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S13 E01
+http://nxt.plus:8080/series/alexandrab/113540/158322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S13 E02
+http://nxt.plus:8080/series/alexandrab/113540/158323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S13 E03
+http://nxt.plus:8080/series/alexandrab/113540/158324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S13 E04
+http://nxt.plus:8080/series/alexandrab/113540/158325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S13 E05
+http://nxt.plus:8080/series/alexandrab/113540/158326.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S13 E06
+http://nxt.plus:8080/series/alexandrab/113540/158327.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S13 E07
+http://nxt.plus:8080/series/alexandrab/113540/158328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S13 E08
+http://nxt.plus:8080/series/alexandrab/113540/158329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S13 E09
+http://nxt.plus:8080/series/alexandrab/113540/158330.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S13 E10
+http://nxt.plus:8080/series/alexandrab/113540/158331.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S13 E11
+http://nxt.plus:8080/series/alexandrab/113540/158332.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S13 E12
+http://nxt.plus:8080/series/alexandrab/113540/158333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S13 E13
+http://nxt.plus:8080/series/alexandrab/113540/158334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S13 E14
+http://nxt.plus:8080/series/alexandrab/113540/158335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S13 E15
+http://nxt.plus:8080/series/alexandrab/113540/158336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S13 E16
+http://nxt.plus:8080/series/alexandrab/113540/158337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S13 E17
+http://nxt.plus:8080/series/alexandrab/113540/158338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S13 E18
+http://nxt.plus:8080/series/alexandrab/113540/158339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S13 E19
+http://nxt.plus:8080/series/alexandrab/113540/158340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S13 E20
+http://nxt.plus:8080/series/alexandrab/113540/158341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S13 E21
+http://nxt.plus:8080/series/alexandrab/113540/158342.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S13 E22
+http://nxt.plus:8080/series/alexandrab/113540/158343.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S14 E01
+http://nxt.plus:8080/series/alexandrab/113540/158344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S14 E02
+http://nxt.plus:8080/series/alexandrab/113540/158345.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S14 E03
+http://nxt.plus:8080/series/alexandrab/113540/158346.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S14 E04
+http://nxt.plus:8080/series/alexandrab/113540/158347.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S14 E05
+http://nxt.plus:8080/series/alexandrab/113540/158348.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S14 E06
+http://nxt.plus:8080/series/alexandrab/113540/158349.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S14 E07
+http://nxt.plus:8080/series/alexandrab/113540/158350.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S14 E08
+http://nxt.plus:8080/series/alexandrab/113540/158351.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S14 E09
+http://nxt.plus:8080/series/alexandrab/113540/158352.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S14 E10
+http://nxt.plus:8080/series/alexandrab/113540/158353.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S14 E11
+http://nxt.plus:8080/series/alexandrab/113540/158354.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S14 E12
+http://nxt.plus:8080/series/alexandrab/113540/158355.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S14 E13
+http://nxt.plus:8080/series/alexandrab/113540/158356.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S14 E14
+http://nxt.plus:8080/series/alexandrab/113540/158357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S14 E15
+http://nxt.plus:8080/series/alexandrab/113540/158358.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S14 E16
+http://nxt.plus:8080/series/alexandrab/113540/158359.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S14 E17
+http://nxt.plus:8080/series/alexandrab/113540/158360.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S14 E18
+http://nxt.plus:8080/series/alexandrab/113540/158361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S14 E19
+http://nxt.plus:8080/series/alexandrab/113540/158362.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S14 E20
+http://nxt.plus:8080/series/alexandrab/113540/158363.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S14 E21
+http://nxt.plus:8080/series/alexandrab/113540/158364.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",LOS SIMPSON S14 E22
+http://nxt.plus:8080/series/alexandrab/113540/158365.mkv
