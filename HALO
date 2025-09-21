@@ -1,8 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",HALO S01 E01
-http://pro.boxdigital.org:8080/series/Alejozorondo/zTZydSJZY4/162428.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",HALO S01 E02
+https://enyr.envivotv.live/beinesp/tracks-v1a1/mono.m3u8?remote=190.183.19.156&token=4a77bc760333c2e822acf5c243722485060a3d38-311962252e47b2961f45e8cf4acff930-1758474041-1758463241
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",HALO S01 httpsO
 http://pro.boxdigital.org:8080/series/Alejozorondo/zTZydSJZY4/162429.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="",HALO S01 E03
 http://pro.boxdigital.org:8080/series/Alejozorondo/zTZydSJZY4/162430.mkv
