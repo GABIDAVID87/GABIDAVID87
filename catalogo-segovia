@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "SHREK",
+    "year": "2001",
+    "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeEfkgKJ_cVRxe38DyuXbV5d6kav2iYIob8pCj_XNlew&s=10",
+    "backdropUrl": "https://wallpapercave.com/wp/wp1917128.jpg",
+    "synopsis": "Un malvado señor exilia criaturas de cuentos de hadas al pantano de un ogro gruñón, que debe emprender una misión y rescatar a una princesa para el señor a fin de recuperar su tierra",
+    "videoUrl": "https://drive.google.com/file/d/1-GyKPVrgpnvyb3FtWss1SRhcNcF4Pq4o/view?usp=misión",
+    "isMovie": true
+  },
+  {
+    "id": 2,
+    "title": "Inception",
+    "year": "2010",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+    "backdropUrl": "https://wallpapercave.com/wp/wp2416348.jpg",
+    "synopsis": "Un ladrón que roba secretos corporativos mediante el uso de tecnología.",
+    "videoUrl": "https://www.google.com",
+    "isMovie": true
+  }
+]
